@@ -65,7 +65,7 @@ src="https://www.facebook.com/tr?id=719979344093420&ev=PageView&noscript=1"
             rgba(0, 0, 0, 0.35),
             rgba(0, 0, 0, 0.35)
           ),
-          url("");
+          url("הצייד תמונה לדף נחיתה.jpg");
         background-size: cover;
         background-position: center;
         color: #fff;
